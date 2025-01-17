@@ -1,4 +1,4 @@
-# CSCI373-Final-Project
+# Google Stock Price Analysis/Prediction
 Stock Price Prediction
 Data Source
 https://www.kaggle.com/datasets/surajjoshi26/google-stock-price2004-2023
